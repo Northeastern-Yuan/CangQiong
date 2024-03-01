@@ -11,3 +11,11 @@ sky:
     access-key-id: LTAI5tAN9tNgEmJ3dJx74R1i
     access-key-secret: qwjVRP9sY9mjPxwkM2PPl1hj4oBCHJ
     bucket-name: cangqiongyuan
+  wechat:
+    appid: wxe5ff4cf48d630976
+    secret: 7b291add6ef9a109e88a3ed13fdd61e9
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
